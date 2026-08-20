@@ -105,12 +105,32 @@
 
 ## 📜 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐜𝐢𝐨𝐧𝐞𝐬 — 𝐂𝐢𝐬𝐜𝐨 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐀𝐜𝐚𝐝𝐞𝐦𝐲
 
-| Certificación | Emitido |
-|---|---|
-| Aplicación de la IA: Analizar las reseñas de los clientes | 20 ago 2026 |
-| Introducción a la ciberseguridad | 20 ago 2026 |
-| Introducción a la IA moderna | 20 ago 2026 |
-| Fundamentos de Python 1 | 16 jun 2026 |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/340x340/images/32aad19b-a359-48f5-a332-2cd9ac2b8731/blob" width="110"/><br/>
+      <sub><b>Aplicación de la IA</b></sub><br/>
+      <sub>Cisco · 20 ago 2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110"/><br/>
+      <sub><b>Introducción a la Ciberseguridad</b></sub><br/>
+      <sub>Cisco · 20 ago 2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/340x340/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" width="110"/><br/>
+      <sub><b>Introducción a la IA Moderna</b></sub><br/>
+      <sub>Cisco · 20 ago 2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="110"/><br/>
+      <sub><b>Fundamentos de Python 1</b></sub><br/>
+      <sub>Cisco · 16 jun 2026</sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
