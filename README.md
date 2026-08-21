@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td align="right"><sub> FILOSOFÍA </sub></td>
-    <td><i>Aprender · Construir · Iterar · Crecer</i></td>
+    <td><i>Aprender · Construir · Crecer</i></td>
   </tr>
 </table>
 
