@@ -50,10 +50,7 @@
     <td align="right"><sub> PROYECTO </sub></td>
     <td>🌳 &nbsp;ForestSRD / ForestID</td>
   </tr>
-  <tr>
-    <td align="right"><sub> FILOSOFÍA </sub></td>
-    <td><i>Aprender · Construir · Crecer</i></td>
-  </tr>
+
 </table>
 
 <br/>
