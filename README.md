@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="right"><sub> INSTITUCIONES </sub></td>
-    <td>SENA (ficha 233104) &nbsp;·&nbsp; UNAD</td>
+    <td>SENA (ficha 3412544) &nbsp;·&nbsp; UNAD</td>
   </tr>
   <tr>
     <td align="right"><sub> APRENDIENDO </sub></td>
