@@ -74,6 +74,7 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)&nbsp;
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
+![gitf](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 ### `// Herramientas`
 
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)&nbsp;
@@ -82,6 +83,7 @@
 [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)&nbsp;
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
+![gitf](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 </div>
 
 ---
