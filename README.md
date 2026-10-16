@@ -23,34 +23,47 @@
 
 <table>
   <tr>
-    <td align="right"><sub> NOMBRE </sub></td>
-    <td><b>Luis Ángel Muñoz Márquez</b></td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/340x340/images/32aad19b-a359-48f5-a332-2cd9ac2b8731/blob" width="110"/><br/>
+      <sub><b>Aplicación de la IA</b></sub><br/>
+      <sub>Cisco · 20 ago 2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110"/><br/>
+      <sub><b>Introducción a la Ciberseguridad</b></sub><br/>
+      <sub>Cisco · 20 ago 2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/340x340/images/e2d12302-10f9-40d4-8ff1-066a7008b61d/blob" width="110"/><br/>
+      <sub><b>Introducción a la IA Moderna</b></sub><br/>
+      <sub>Cisco · 20 ago 2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="110"/><br/>
+      <sub><b>Fundamentos de Python 1</b></sub><br/>
+      <sub>Cisco · 16 jun 2026</sub>
+    </td>
   </tr>
   <tr>
-    <td align="right"><sub> UBICACIÓN </sub></td>
-    <td>El Bagre, Antioquia &nbsp;🇨🇴</td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/images/b1c17d0c-e76b-45fc-9b28-87b01ae1caf3/blob" width="110"/><br/>
+      <sub><b>Fundamentos de HTML</b></sub><br/>
+      <sub>Cisco · 03 sep 2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/160x160/images/9835a120-6adb-492f-88f5-dbf62df300b6/image.png" width="110"/><br/>
+      <sub><b>Uso de computadoras y dispositivos móviles</b></sub><br/>
+      <sub>Cisco · 25 ago 2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://images.credly.com/size/160x160/images/5ba48a47-11b2-452f-a641-5184ba2f6a67/blob" width="110"/><br/>
+      <sub><b>Encuentre información con IA</b></sub><br/>
+      <sub>Cisco · 25 ago 2026</sub>
+    </td>
+    <td align="center" width="25%">
+      <!-- Espacio reservado para la siguiente insignia -->
+    </td>
   </tr>
-  <tr>
-    <td align="right"><sub> FORMACIÓN </sub></td>
-    <td>Técnico en Programación de Software</td>
-  </tr>
-  <tr>
-    <td align="right"><sub> TAMBIÉN ESTUDIA </sub></td>
-    <td>Ingeniería Ambiental &nbsp;·&nbsp; UNAD</td>
-  </tr>
-  <tr>
-    <td align="right"><sub> INSTITUCIONES </sub></td>
-    <td>SENA (ficha 3412544) &nbsp;·&nbsp; UNAD</td>
-  </tr>
-  <tr>
-    <td align="right"><sub> APRENDIENDO </sub></td>
-    <td>PHP &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Python &nbsp;·&nbsp; Linux &nbsp;·&nbsp; n8n</td>
-  </tr>
-  <tr>
-    <td align="right"><sub> PROYECTO </sub></td>
-    <td>🌳 &nbsp;ForestSRD / ForestID</td>
-  </tr>
-
 </table>
 
 <br/>
