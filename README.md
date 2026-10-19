@@ -6,12 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=820&height=70&lines=Luis+%C3%81ngel+Mu%C3%B1oz+M%C3%A1rquez;Desarrollador+de+Software+en+formaci%C3%B3n;PHP+%C2%B7+MySQL+%C2%B7+Python+%C2%B7+Linux)](https://github.com/luis06-op)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&pause=1200&color=FF5A3C&center=true&vCenter=true&width=820&height=40&lines=Construyendo+ForestID+%C2%B7+Registro+forestal+con+QR;Minervox+POS+%C2%B7+en+producci%C3%B3n;El+Bagre%2C+Antioquia+%C2%B7+Colombia)](https://github.com/luis06-op)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&height=40&lines=Construyendo+ForestID+%C2%B7+Registro+forestal+con+QR;Minervox+POS+%C2%B7+en+producci%C3%B3n;El+Bagre%2C+Antioquia+%C2%B7+Colombia)](https://github.com/luis06-op)
 
 <br/>
 
 [![Seguidores](https://img.shields.io/github/followers/luis06-op?label=Seguidores&style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41)](https://github.com/luis06-op)
-[![Visitas](https://komarev.com/ghpvc/?username=luis06-op&color=FF5A3C&style=for-the-badge&label=Visitas)](https://github.com/luis06-op)
+[![Visitas](https://komarev.com/ghpvc/?username=luis06-op&color=38BDF8&style=for-the-badge&label=Visitas)](https://github.com/luis06-op)
 [![Estrellas](https://img.shields.io/github/stars/luis06-op?style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41&label=Estrellas)](https://github.com/luis06-op)
 [![Repositorios](https://img.shields.io/badge/Repositorios-9-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op?tab=repositories)
 
@@ -108,10 +108,10 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 [![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/luis06-op/minervox-pos)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)](https://github.com/luis06-op/minervox-pos)
 [![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)](https://github.com/luis06-op/minervox-pos)
-[![PDF](https://img.shields.io/badge/PDF-FF5A3C?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/luis06-op/minervox-pos)
+[![PDF](https://img.shields.io/badge/PDF-38BDF8?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/luis06-op/minervox-pos)
 
-[![Demo en vivo](https://img.shields.io/badge/>>_ABRIR_DEMO-FF5A3C?style=for-the-badge&logo=vercel&logoColor=white)](https://minervox-pos.vercel.app)
-[![Ver repositorio](https://img.shields.io/badge/>>_VER_MINERVOX-0d1117?style=for-the-badge&logo=github&logoColor=FF5A3C)](https://github.com/luis06-op/minervox-pos)
+[![Demo en vivo](https://img.shields.io/badge/>>_ABRIR_DEMO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://minervox-pos.vercel.app)
+[![Ver repositorio](https://img.shields.io/badge/>>_VER_MINERVOX-0d1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/luis06-op/minervox-pos)
 
 </div>
 
@@ -208,11 +208,11 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=luis06-op&theme=dark&ring=00FF41&fire=FF5A3C&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&border=00FF41&background=0d1117" alt="Racha de GitHub"/>
+<img src="https://streak-stats.demolab.com?user=luis06-op&theme=dark&ring=00FF41&fire=38BDF8&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&border=00FF41&background=0d1117" alt="Racha de GitHub"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luis06-op&bg_color=0d1117&color=00FF41&line=FF5A3C&point=00FF41&area=true&hide_border=false&border_color=00FF41" alt="Actividad en GitHub"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luis06-op&bg_color=0d1117&color=00FF41&line=38BDF8&point=00FF41&area=true&hide_border=false&border_color=00FF41" alt="Actividad en GitHub"/>
 
 </div>
 
@@ -223,7 +223,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/>>_GitHub-luis06--op-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op)
-[![Gmail](https://img.shields.io/badge/>>_Gmail-Escr%C3%ADbeme-0d1117?style=for-the-badge&logo=gmail&logoColor=FF5A3C)](mailto:munozmarquezluisangel51@gmail.com)
+[![Gmail](https://img.shields.io/badge/>>_Gmail-Escr%C3%ADbeme-0d1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:munozmarquezluisangel51@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/>>_WhatsApp-+57_350_225_4563-0d1117?style=for-the-badge&logo=whatsapp&logoColor=00FF41)](https://wa.me/573502254563)
 
 <br/>
