@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero-3d.gif" width="100%" alt="Banner 3D animado de Luis Ángel Muñoz Márquez"/>
+  <img src="assets/hero-3d-v2.gif" width="100%" alt="Banner 3D animado de Luis Ángel Muñoz Márquez"/>
 </div>
 
 <div align="center">
@@ -87,7 +87,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 ### ⛏️ Minervox POS
 
-<img src="assets/minervox-3d.gif" width="100%" alt="Minervox — animación 3D de un cristal minero"/>
+<img src="assets/minervox-3d-blue.gif" width="100%" alt="Minervox — animación 3D de un cristal minero"/>
 
 > Sistema web **PWA** de punto de venta, facturación y control de cartera (*fiaos*) para comercializadoras de **insumos y reactivos químicos mineros**.
 
