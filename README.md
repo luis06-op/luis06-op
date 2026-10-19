@@ -160,9 +160,9 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 |---|---|
 | **Motor 3D** | Three.js (WebGL 2) — geometría real, no imágenes planas |
 | **GPU** | **AMD Radeon RX 9060 XT** · 16 GB · ANGLE / Direct3D 11 |
-| **Escenas** | árbol holográfico · cristal minero · cubo de stack |
+| **Escenas** | árbol holográfico · cristal minero · cubo de stack · globo GPS |
 | **Post-proceso** | FFmpeg — paleta de 192 colores · 12,5 fps |
-| **Rendimiento** | ~0,22 ms por fotograma en GPU |
+| **Rendimiento** | ~0,27 ms por fotograma en GPU |
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -240,6 +240,8 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 ## 📫 Conecta conmigo
 
+<img src="assets/globe-3d.gif" width="100%" alt="Globo 3D con el marcador GPS de El Bagre, Antioquia — renderizado en GPU con WebGL"/>
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/>>_GitHub-luis06--op-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op)
@@ -249,6 +251,10 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 <br/>
 
 <sub>📍 El Bagre, Antioquia · Colombia &nbsp;|&nbsp; 🕒 GMT-5</sub>
+
+<br/><br/>
+
+<sub>🌐 Globo 3D en tiempo real con el marcador GPS de mi municipio (7.98° N · 74.67° W), renderizado en la <b>GPU</b> con WebGL.</sub>
 
 </div>
 
