@@ -55,7 +55,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 ## 🚀 Proyectos en los que estoy trabajando
 
-### 🌳 ForestID · ForestSRD
+### 🌳 ForestID V2 · ForestSRD
 
 <img src="assets/forest-3d.gif" width="100%" alt="ForestID — animación 3D de un árbol holográfico"/>
 
@@ -64,6 +64,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 | | |
 |---|---|
 | **Mi rol** | Líder de Arquitectura |
+| **Equipo** | Gabriel Correa · Michael Rodríguez · Valentina |
 | **Contexto** | SENA Regional Antioquia · iRed Innovacción |
 | **Stack** | PHP 8 · MySQL 8 · Tailwind CSS · JavaScript ES6+ · Leaflet · QR |
 | **Estado** | 🟢 En desarrollo activo |
@@ -80,7 +81,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 [![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/luis06-op/ForestID_V2)
 [![QR](https://img.shields.io/badge/QR_+_GPS-00FF41?style=flat-square&logo=qr-code&logoColor=0d1117)](https://github.com/luis06-op/ForestID_V2)
 
-[![Ver repositorio](https://img.shields.io/badge/>>_VER_FORESTID-00FF41?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/luis06-op/ForestID_V2)
+[![Ver repositorio](https://img.shields.io/badge/>>_VER_FORESTID_V2-00FF41?style=for-the-badge&logo=github&logoColor=0d1117)](https://github.com/luis06-op/ForestID_V2)
 
 </div>
 
@@ -122,7 +123,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 | [**ecuaciones-diferenciales**](https://github.com/luis06-op/ecuaciones-diferenciales) | Notebooks de Google Colab con soluciones y ejemplos de EDO | `Python` · `Jupyter` |
 | [**Hoja-de-vida**](https://github.com/luis06-op/Hoja-de-vida) | Página web profesional de mi hoja de vida | `HTML` · `CSS` |
 | [**Portafolio-de-Formación-**](https://github.com/luis06-op/Portafolio-de-Formaci-n-) | Portafolio personal de formación | `Web` |
-| [**Tiling-Assistant**](https://github.com/luis06-op/Tiling-Assistant) | Colaboración en extensión de tiling para GNOME (fork) | `JavaScript` |
+| [**Tiling-Assistant**](https://github.com/luis06-op/Tiling-Assistant) | Extensión de tiling para GNOME (fork) | `JavaScript` |
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
