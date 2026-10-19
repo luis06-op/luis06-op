@@ -14,6 +14,7 @@
 [![Visitas](https://komarev.com/ghpvc/?username=luis06-op&color=38BDF8&style=for-the-badge&label=Visitas)](https://github.com/luis06-op)
 [![Estrellas](https://img.shields.io/github/stars/luis06-op?style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41&label=Estrellas)](https://github.com/luis06-op)
 [![Repositorios](https://img.shields.io/badge/Repositorios-9-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op?tab=repositories)
+[![Renderizado en GPU](https://img.shields.io/badge/Banners_3D-GPU_·_RX_9060_XT-0d1117?style=for-the-badge&logo=amd&logoColor=38BDF8)](https://www.amd.com/)
 
 </div>
 
@@ -129,6 +130,8 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 ## 🛠️ Stack tecnológico
 
+<img src="assets/stack-3d.gif" width="100%" alt="Cubo 3D con las tecnologías del stack — renderizado en GPU con WebGL"/>
+
 <div align="center">
 
 ### `// Lenguajes`
@@ -143,6 +146,23 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 </div>
+
+### `// Renderizado en GPU`
+
+<div align="center">
+
+[![Renderizado en GPU](https://img.shields.io/badge/Renderizado_en_GPU-AMD_Radeon_RX_9060_XT_·_16_GB-0d1117?style=for-the-badge&logo=amd&logoColor=00FF41)](https://www.amd.com/)
+[![WebGL](https://img.shields.io/badge/WebGL-3D_en_tiempo_real-0d1117?style=for-the-badge&logo=webgl&logoColor=38BDF8)](https://threejs.org/)
+
+</div>
+
+| Detalle | Valor |
+|---|---|
+| **Motor 3D** | Three.js (WebGL 2) — geometría real, no imágenes planas |
+| **GPU** | **AMD Radeon RX 9060 XT** · 16 GB · ANGLE / Direct3D 11 |
+| **Escenas** | árbol holográfico · cristal minero · cubo de stack |
+| **Post-proceso** | FFmpeg — paleta de 192 colores · 12,5 fps |
+| **Rendimiento** | ~0,22 ms por fotograma en GPU |
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -237,5 +257,5 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 <div align="center">
   <sub>💡 <i>“Cada commit es un paso adelante.”</i></sub>
   <br/><br/>
-  <sub>🎬 Banners 3D renderizados con Three.js + WebGL (AMD Radeon RX 9060 XT) y optimizados con FFmpeg.</sub>
+  <sub>🎬 Banners 3D <b>renderizados en la GPU</b> (AMD Radeon RX 9060 XT · 16 GB) con Three.js + WebGL, y optimizados con FFmpeg.</sub>
 </div>
