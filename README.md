@@ -22,6 +22,8 @@
 
 ## `$ whoami`
 
+<img src="assets/card-3d.gif" width="100%" alt="Tarjeta de identidad 3D holográfica de Luis Ángel Muñoz Márquez — renderizada en GPU con WebGL"/>
+
 <table>
 <tr>
 <td width="52%" valign="top">
@@ -160,7 +162,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 |---|---|
 | **Motor 3D** | Three.js (WebGL 2) — geometría real, no imágenes planas |
 | **GPU** | **AMD Radeon RX 9060 XT** · 16 GB · ANGLE / Direct3D 11 |
-| **Escenas** | árbol holográfico · cristal minero · cubo de stack · globo GPS |
+| **Escenas** | tarjeta de identidad · árbol holográfico · cristal minero · cubo de stack · globo GPS |
 | **Post-proceso** | FFmpeg — paleta de 192 colores · 12,5 fps |
 | **Rendimiento** | ~0,27 ms por fotograma en GPU |
 
