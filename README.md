@@ -132,7 +132,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 ## 🛠️ Stack tecnológico
 
-<img src="assets/stack-3d.gif" width="100%" alt="Cubo 3D con las tecnologías del stack — renderizado en GPU con WebGL"/>
+<img src="assets/stack-3d-v2.gif" width="100%" alt="Cubo 3D con las tecnologías del stack — renderizado en GPU con WebGL"/>
 
 <div align="center">
 
