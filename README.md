@@ -213,7 +213,10 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
       <sub><b>Bash</b></sub>
     </td>
     <td align="center" width="72">
-      <img src="https://cdn.simpleicons.org/linux/FCC624" width="28" height="28" alt="Linux" title="Linux"/><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/FCC624"/>
+        <img src="https://cdn.simpleicons.org/linux/A16207" width="28" height="28" alt="Linux" title="Linux"/>
+      </picture><br/>
       <sub><b>Linux</b></sub>
     </td>
   </tr>
