@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="340" viewBox="0 0 340 340" role="img" aria-labelledby="title desc">
+  <title id="title">Aplicación de la IA — Cisco Networking Academy</title>
+  <desc id="desc">Insignia de la certificación Aplicación de la IA de Cisco Networking Academy</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07182b"/>
+      <stop offset="0.55" stop-color="#0a2540"/>
+      <stop offset="1" stop-color="#061322"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#1ba0d7"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22c55e"/>
+      <stop offset="1" stop-color="#4ade80"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.42" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="340" height="340" rx="34" fill="url(#bg)"/>
+  <circle cx="170" cy="146" r="118" fill="url(#glow)"/>
+
+  <g stroke="#1e3a5f" stroke-width="1" opacity="0.45">
+    <path d="M0 40h340M0 300h340M40 0v340M300 0v340"/>
+    <path d="M28 84h34v34h-34zM278 84h34v34h-34zM28 222h34v34h-34zM278 222h34v34h-34z" fill="none"/>
+  </g>
+
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="170" y="38" fill="#7dd3fc" font-size="13" font-weight="700" letter-spacing="3">CISCO NETWORKING ACADEMY</text>
+
+    <g transform="translate(170 142)">
+      <polygon points="0,-66 57,-33 57,33 0,66 -57,33 -57,-33" fill="#0b2b4a" stroke="url(#blue)" stroke-width="3"/>
+      <g stroke="#38bdf8" stroke-width="2" fill="none" opacity="0.9">
+        <path d="M-36 -30L-10 -8M36 -30L10 -8M-36 30L-10 8M36 30L10 8M-36 -30V30M36 -30V30M-10 -8V8M10 -8V8"/>
+      </g>
+      <g fill="#38bdf8">
+        <circle cx="-36" cy="-30" r="5"/><circle cx="36" cy="-30" r="5"/>
+        <circle cx="-36" cy="30" r="5"/><circle cx="36" cy="30" r="5"/>
+        <circle cx="-10" cy="-8" r="5"/><circle cx="10" cy="-8" r="5"/>
+        <circle cx="-10" cy="8" r="5"/><circle cx="10" cy="8" r="5"/>
+      </g>
+      <text x="0" y="16" fill="#e6f6ff" font-size="42" font-weight="800" letter-spacing="1">IA</text>
+    </g>
+
+    <text x="170" y="248" fill="#e6f6ff" font-size="21" font-weight="700">Aplicación de la IA</text>
+    <text x="170" y="270" fill="#7dd3fc" font-size="12" letter-spacing="1">INTELIGENCIA ARTIFICIAL APLICADA</text>
+
+    <g transform="translate(122 286)">
+      <rect width="96" height="26" rx="13" fill="url(#green)"/>
+      <text x="48" y="18" fill="#052e16" font-size="12" font-weight="800" letter-spacing="1">VERIFIED</text>
+    </g>
+
+    <text x="170" y="330" fill="#475569" font-size="10" letter-spacing="2">CREDLY · CISCO · 2026</text>
+  </g>
+</svg>

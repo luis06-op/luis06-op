@@ -13,7 +13,7 @@
 [![Seguidores](https://img.shields.io/github/followers/luis06-op?label=Seguidores&style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41)](https://github.com/luis06-op)
 [![Visitas](https://komarev.com/ghpvc/?username=luis06-op&color=38BDF8&style=for-the-badge&label=Visitas)](https://github.com/luis06-op)
 [![Estrellas](https://img.shields.io/github/stars/luis06-op?style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41&label=Estrellas)](https://github.com/luis06-op)
-[![Repositorios](https://img.shields.io/badge/Repositorios-9-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op?tab=repositories)
+[![Repositorios](https://img.shields.io/badge/Repositorios-10-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op?tab=repositories)
 [![Renderizado en GPU](https://img.shields.io/badge/Banners_3D-GPU_·_RX_9060_XT-0d1117?style=for-the-badge&logo=amd&logoColor=38BDF8)](https://www.amd.com/)
 
 </div>
@@ -35,7 +35,7 @@
 - 🎓 **Técnico en Programación de Software** — SENA · ficha 3412544
 - 🌱 **Ingeniería Ambiental** — UNAD
 - 💻 **Full-stack en formación:** PHP · MySQL · JavaScript · Python
-- 🧪 **Explorando:** Linux · n8n · automatización
+- 🧪 **Explorando:** Linux · OpenCode · automatización
 - 🏢 **Proyectos:** ForestID (Emincut S.A.S.) · Minervox
 
 </td>
@@ -48,7 +48,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 - 🌳 Liderando la arquitectura de **ForestID**, una plataforma de trazabilidad forestal con QR y GPS.
 - ⛏️ Desarrollando **Minervox POS**, un punto de venta PWA para insumos mineros.
 - 📚 Formándome en programación, bases de datos y tecnología ambiental.
-- ⚙️ Automatizando tareas con **Python**, **Linux** y **n8n**.
+- ⚙️ Automatizando tareas con **Python**, **Bash** y **Linux**.
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 [![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)](https://github.com/luis06-op/minervox-pos)
 [![PDF](https://img.shields.io/badge/PDF-38BDF8?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/luis06-op/minervox-pos)
 
-[![Demo en vivo](https://img.shields.io/badge/>>_ABRIR_DEMO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://minervox-pos.vercel.app)
+[![Demo en vivo](https://img.shields.io/badge/>>_ABRIR_DEMO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://minervox.vercel.app)
 [![Ver repositorio](https://img.shields.io/badge/>>_VER_MINERVOX-0d1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/luis06-op/minervox-pos)
 
 </div>
@@ -137,15 +137,111 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 <div align="center">
 
 ### `// Lenguajes`
-<img src="https://skillicons.dev/icons?i=php,python,js,html,css&theme=dark" alt="PHP, Python, JavaScript, HTML, CSS"/>
 
-### `// Datos & herramientas`
-<img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode&theme=dark" alt="MySQL, Git, GitHub, Linux, VS Code"/>
+<table>
+  <tr>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/php/777BB4" width="28" height="28" alt="PHP" title="PHP 8"/><br/>
+      <sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" height="28" alt="JavaScript" title="JavaScript ES6+"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="28" height="28" alt="Python" title="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="28" height="28" alt="HTML5" title="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/css/663399" width="28" height="28" alt="CSS" title="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
-### `// Aprendiendo ahora`
-<img src="https://skillicons.dev/icons?i=php,mysql,python,linux&theme=dark" alt="PHP, MySQL, Python, Linux"/>
-&nbsp;
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+### `// Datos & web`
+
+<table>
+  <tr>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/ffffff"/>
+        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="28" height="28" alt="MySQL" title="MySQL 8"/>
+      </picture><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="28" height="28" alt="Tailwind CSS" title="Tailwind CSS"/><br/>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/leaflet/199900" width="28" height="28" alt="Leaflet" title="Leaflet · OpenStreetMap"/><br/>
+      <sub><b>Leaflet</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="28" height="28" alt="Chart.js" title="Chart.js"/><br/>
+      <sub><b>Chart.js</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="28" height="28" alt="PWA" title="PWA"/><br/>
+      <sub><b>PWA</b></sub>
+    </td>
+  </tr>
+</table>
+
+### `// Herramientas`
+
+<table>
+  <tr>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="28" height="28" alt="Git" title="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"/>
+        <img src="https://cdn.simpleicons.org/github/181717" width="28" height="28" alt="GitHub" title="GitHub"/>
+      </picture><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="28" height="28" alt="Bash" title="Bash"/><br/>
+      <sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/linux/FCC624" width="28" height="28" alt="Linux" title="Linux"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="28" height="28" alt="XAMPP" title="XAMPP · Apache + MySQL"/><br/>
+      <sub><b>XAMPP</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" title="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opencode/ffffff"/>
+        <img src="https://cdn.simpleicons.org/opencode/000000" width="28" height="28" alt="OpenCode" title="OpenCode"/>
+      </picture><br/>
+      <sub><b>OpenCode</b></sub>
+    </td>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff"/>
+        <img src="https://cdn.simpleicons.org/vercel/000000" width="28" height="28" alt="Vercel" title="Vercel"/>
+      </picture><br/>
+      <sub><b>Vercel</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -183,7 +279,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://images.credly.com/size/340x340/images/32aad19b-a359-48f5-a332-2cd9ac2b8731/blob" width="110" alt="Aplicación de la IA"/><br/>
+      <img src="assets/badge-ia.svg" width="110" alt="Aplicación de la IA"/><br/>
       <sub><b>Aplicación de la IA</b></sub><br/>
       <sub>Cisco · 20 ago 2026</sub>
     </td>
@@ -234,7 +330,11 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luis06-op&bg_color=0d1117&color=00FF41&line=38BDF8&point=00FF41&area=true&hide_border=false&border_color=00FF41" alt="Actividad en GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=luis06-op&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=38BDF8&text_color=c9d1d9&locale=es" alt="Estadísticas de GitHub"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis06-op&layout=compact&hide_border=false&border_color=00FF41&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&locale=es" alt="Lenguajes más usados"/>
 
 </div>
 
