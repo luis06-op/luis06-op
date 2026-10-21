@@ -113,7 +113,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 [![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)](https://github.com/luis06-op/minervox-pos)
 [![PDF](https://img.shields.io/badge/PDF-38BDF8?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/luis06-op/minervox-pos)
 
-[![Demo en vivo](https://img.shields.io/badge/>>_ABRIR_DEMO-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://minervox.vercel.app)
+[![Landing](https://img.shields.io/badge/>>_ABRIR_LANDING-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://minervox-v2.vercel.app)
 [![Ver repositorio](https://img.shields.io/badge/>>_VER_MINERVOX-0d1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/luis06-op/minervox-pos)
 
 </div>
