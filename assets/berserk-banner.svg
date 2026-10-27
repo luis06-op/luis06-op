@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Archivo del Espadachín Negro — wiki temática de Berserk con Bootstrap 5.3.3">
+  <title>Archivo del Espadachín Negro</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0807"/>
+      <stop offset="48%" stop-color="#171010"/>
+      <stop offset="100%" stop-color="#070505"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff8ec"/>
+      <stop offset="52%" stop-color="#e9c98a"/>
+      <stop offset="100%" stop-color="#b8894a"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff4dd" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sangre" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e0313a" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#e0313a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hilo" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0">
+      <stop offset="0%" stop-color="#e0b06a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e0b06a" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#e0b06a" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grano" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#2a211c" stroke-width="1"/>
+    </pattern>
+    <clipPath id="marco">
+      <rect x="0" y="0" width="1200" height="320" rx="18" ry="18"/>
+    </clipPath>
+    <clipPath id="tituloClip">
+      <text x="300" y="186" font-family="Georgia,'Times New Roman',serif" font-size="92" font-weight="700" letter-spacing="10">BERSERK</text>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#marco)">
+    <rect width="1200" height="320" fill="url(#bg)"/>
+    <rect width="1200" height="320" fill="url(#grano)" opacity="0.5"/>
+
+    <!-- Resplandor de sangre -->
+    <circle cx="140" cy="150" r="140" fill="url(#sangre)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="60" r="170" fill="#e0313a" opacity="0.05">
+      <animate attributeName="opacity" values="0.04;0.09;0.04" dur="7s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Marca de sacrificio de fondo, girando muy despacio -->
+    <g transform="translate(890 24) scale(1.9)" opacity="0.08">
+      <g>
+        <g fill="none" stroke="#e0b06a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M60 18 L60 62"/>
+          <path d="M60 62 L38 96"/>
+          <path d="M60 62 L82 96"/>
+          <path d="M60 40 L42 28"/>
+        </g>
+        <animateTransform attributeName="transform" type="rotate" values="0 60 60;360 60 60" dur="150s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- Sello de la marca -->
+    <g>
+      <circle cx="136" cy="160" r="76" fill="none" stroke="#e0313a" stroke-width="1.5" opacity="0.5">
+        <animate attributeName="r" values="78;104" dur="4.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.5;0" dur="4.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="136" cy="160" r="76" fill="#120d0c" stroke="#e0b06a" stroke-opacity="0.35" stroke-width="2"/>
+      <g transform="translate(76 100)" fill="none" stroke="#e0313a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M60 18 L60 62"/>
+        <path d="M60 62 L38 96"/>
+        <path d="M60 62 L82 96"/>
+        <path d="M60 40 L42 28"/>
+        <animate attributeName="stroke" values="#e0313a;#ff7a80;#e0313a" dur="4.5s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <!-- Textos -->
+    <g>
+      <text x="300" y="98" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="8" fill="#e0b06a">ACTIVIDAD 3.4.2 · MAQUETACIÓN WEB</text>
+
+      <text x="298" y="186" font-family="Georgia,'Times New Roman',serif" font-size="92" font-weight="700" letter-spacing="10" fill="url(#titleGrad)">BERSERK</text>
+
+      <g clip-path="url(#tituloClip)">
+        <rect x="-220" y="80" width="150" height="140" fill="url(#shine)">
+          <animateTransform attributeName="transform" type="translate" from="-220 0" to="1340 0" dur="5.2s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <text x="302" y="228" font-family="Georgia,'Times New Roman',serif" font-size="25" letter-spacing="3.5" fill="#efe7d8" opacity="0.92">Archivo del Espadachín Negro</text>
+
+      <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="700" letter-spacing="1.7">
+        <g opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.6s" fill="freeze"/>
+          <rect x="302" y="256" width="140" height="32" rx="16" fill="#1c1010" stroke="#e0313a" stroke-opacity="0.55"/>
+          <text x="372" y="277" fill="#ff9a9e" text-anchor="middle">30 FICHAS</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.85s" fill="freeze"/>
+          <rect x="454" y="256" width="126" height="32" rx="16" fill="#1c1010" stroke="#e0313a" stroke-opacity="0.55"/>
+          <text x="517" y="277" fill="#ff9a9e" text-anchor="middle">6 ARCOS</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.1s" fill="freeze"/>
+          <rect x="592" y="256" width="196" height="32" rx="16" fill="#1a1509" stroke="#e0b06a" stroke-opacity="0.5"/>
+          <text x="690" y="277" fill="#e9c98a" text-anchor="middle">BOOTSTRAP 5.3.3</text>
+        </g>
+        <g opacity="0">
+          <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.35s" fill="freeze"/>
+          <rect x="800" y="256" width="150" height="32" rx="16" fill="#1a1509" stroke="#e0b06a" stroke-opacity="0.5"/>
+          <text x="875" y="277" fill="#e9c98a" text-anchor="middle">RESPONSIVE</text>
+        </g>
+      </g>
+    </g>
+
+    <line x1="40" y1="303" x2="1160" y2="303" stroke="url(#hilo)" stroke-width="2" stroke-dasharray="16 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="52" dur="1.8s" repeatCount="indefinite"/>
+    </line>
+  </g>
+</svg>

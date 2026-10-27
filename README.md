@@ -4,16 +4,16 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=820&height=70&lines=Luis+%C3%81ngel+Mu%C3%B1oz+M%C3%A1rquez;Desarrollador+de+Software+en+formaci%C3%B3n;PHP+%C2%B7+MySQL+%C2%B7+Python+%C2%B7+Linux)](https://github.com/luis06-op)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=820&height=70&lines=Luis+%C3%81ngel+Mu%C3%B1oz+M%C3%A1rquez;Desarrollador+de+Software+en+formaci%C3%B3n;PHP+%C2%B7+MySQL+%C2%B7+Bootstrap+%C2%B7+Python)](https://github.com/luis06-op)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&height=40&lines=Construyendo+ForestID+%C2%B7+Registro+forestal+con+QR;Minervox+POS+%C2%B7+en+producci%C3%B3n;El+Bagre%2C+Antioquia+%C2%B7+Colombia)](https://github.com/luis06-op)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&height=70&lines=Construyendo+ForestID+%C2%B7+Registro+forestal+con+QR;Minervox+POS+%C2%B7+en+producci%C3%B3n;Wiki+Berserk+%C2%B7+Bootstrap+5+%2B+Vercel;El+Bagre%2C+Antioquia+%C2%B7+Colombia)](https://github.com/luis06-op)
 
 <br/>
 
 [![Seguidores](https://img.shields.io/github/followers/luis06-op?label=Seguidores&style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41)](https://github.com/luis06-op)
 [![Visitas](https://komarev.com/ghpvc/?username=luis06-op&color=38BDF8&style=for-the-badge&label=Visitas)](https://github.com/luis06-op)
 [![Estrellas](https://img.shields.io/github/stars/luis06-op?style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41&label=Estrellas)](https://github.com/luis06-op)
-[![Repositorios](https://img.shields.io/badge/Repositorios-10-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op?tab=repositories)
+[![Repositorios](https://img.shields.io/badge/Repositorios-11-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op?tab=repositories)
 [![Renderizado en GPU](https://img.shields.io/badge/Banners_3D-GPU_·_RX_9060_XT-0d1117?style=for-the-badge&logo=amd&logoColor=38BDF8)](https://www.amd.com/)
 
 </div>
@@ -34,9 +34,9 @@
 - 📍 **El Bagre, Antioquia** · Colombia
 - 🎓 **Técnico en Programación de Software** — SENA · ficha 3412544
 - 🌱 **Ingeniería Ambiental** — UNAD
-- 💻 **Full-stack en formación:** PHP · MySQL · JavaScript · Python
+- 💻 **Full-stack en formación:** PHP · MySQL · JavaScript · Bootstrap · Python
 - 🧪 **Explorando:** Linux · OpenCode · automatización
-- 🏢 **Proyectos:** ForestID (Emincut S.A.S.) · Minervox
+- 🏢 **Proyectos:** ForestID (Emincut S.A.S.) · Minervox · Archivo del Espadachín Negro
 
 </td>
 <td width="48%" valign="top">
@@ -47,6 +47,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 - 🌳 Liderando la arquitectura de **ForestID**, una plataforma de trazabilidad forestal con QR y GPS.
 - ⛏️ Desarrollando **Minervox POS**, un punto de venta PWA para insumos mineros.
+- ⚔️ Publiqué **Archivo del Espadachín Negro**, una wiki de Berserk con Bootstrap 5 desplegada en Vercel.
 - 📚 Formándome en programación, bases de datos y tecnología ambiental.
 - ⚙️ Automatizando tareas con **Python**, **Bash** y **Linux**.
 
@@ -56,7 +57,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🚀 Proyectos en los que estoy trabajando
+## 🚀 Proyectos destacados
 
 ### 🌳 ForestID V2 · ForestSRD
 
@@ -115,6 +116,41 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 [![Landing](https://img.shields.io/badge/>>_ABRIR_LANDING-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://minervox-v2.vercel.app)
 [![Ver repositorio](https://img.shields.io/badge/>>_VER_MINERVOX-0d1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/luis06-op/minervox-pos)
+
+</div>
+
+### ⚔️ Archivo del Espadachín Negro · berserk-guts-web
+
+<img src="assets/berserk-banner.svg" width="100%" alt="Archivo del Espadachín Negro — wiki temática de Berserk maquetada con Bootstrap 5.3.3"/>
+
+> Wiki temática de **Berserk**: **30 fichas** de personaje, **seis arcos** cronológicos y un catálogo
+> que se filtra, se ordena y se lee igual de bien en un móvil que en un monitor.
+
+| | |
+|---|---|
+| **Mi rol** | Desarrollo front-end completo |
+| **Tipo** | Sitio estático · sin build ni dependencias |
+| **Contexto** | SENA · Actividad 3.4.2 — maquetación web |
+| **Stack** | HTML5 · CSS3 · Bootstrap 5.3.3 · JavaScript ES6+ · Vercel |
+| **Estado** | 🟢 Publicado en Vercel y GitHub Pages |
+
+- 🃏 Fichas con retrato, historia, habilidades y arcos, en **modal** con enlace directo compartible.
+- 🔎 Búsqueda que ignora tildes, filtros por facción y estado, orden y paginación de 12 en 12.
+- 🧩 **12 componentes nativos de Bootstrap**: pestañas, carrusel, acordeón, modales, toasts, tablas…
+- ♿ Accesible **AA** desde 320 px, con `prefers-reduced-motion`, foco visible y `aria-live`.
+- ⚙️ Cero dependencias que instalar: el bundle de Bootstrap vive en el propio repositorio.
+
+<div align="center">
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/luis06-op/berserk-guts-web)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://github.com/luis06-op/berserk-guts-web)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap_5.3.3-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/luis06-op/berserk-guts-web)
+[![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=0d1117)](https://github.com/luis06-op/berserk-guts-web)
+[![Vercel](https://img.shields.io/badge/Vercel-E0B06A?style=flat-square&logo=vercel&logoColor=0d1117)](https://berserk-guts-web.vercel.app)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://luis06-op.github.io/berserk-guts-web/)
+
+[![Ver sitio](https://img.shields.io/badge/>>_ABRIR_EL_ARCHIVO-E0B06A?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://berserk-guts-web.vercel.app)
+[![Ver repositorio](https://img.shields.io/badge/>>_VER_BERSERK-0d1117?style=for-the-badge&logo=github&logoColor=E0313A)](https://github.com/luis06-op/berserk-guts-web)
 
 </div>
 
@@ -177,6 +213,10 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
     <td align="center" width="72">
       <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="28" height="28" alt="Tailwind CSS" title="Tailwind CSS"/><br/>
       <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="28" height="28" alt="Bootstrap" title="Bootstrap 5.3.3"/><br/>
+      <sub><b>Bootstrap</b></sub>
     </td>
     <td align="center" width="72">
       <img src="https://cdn.simpleicons.org/leaflet/199900" width="28" height="28" alt="Leaflet" title="Leaflet · OpenStreetMap"/><br/>
@@ -242,6 +282,13 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
         <img src="https://cdn.simpleicons.org/vercel/000000" width="28" height="28" alt="Vercel" title="Vercel"/>
       </picture><br/>
       <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubpages/ffffff"/>
+        <img src="https://cdn.simpleicons.org/githubpages/181717" width="28" height="28" alt="GitHub Pages" title="GitHub Pages"/>
+      </picture><br/>
+      <sub><b>Pages</b></sub>
     </td>
   </tr>
 </table>
