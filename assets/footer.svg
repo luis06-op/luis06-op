@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Cierre del perfil: cada commit es un paso adelante. Luis Ángel Muñoz, El Bagre, Antioquia, Colombia">
+  <title>Cada commit es un paso adelante</title>
+  <defs>
+    <linearGradient id="fondo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#0a1410"/>
+      <stop offset="1" stop-color="#07110b"/>
+    </linearGradient>
+    <linearGradient id="filo" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF41" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00FF41" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#00FF41" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ola" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00FF41" stop-opacity="0"/>
+      <stop offset="0.16" stop-color="#00FF41" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#38BDF8" stop-opacity="1"/>
+      <stop offset="0.84" stop-color="#00FF41" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#00FF41" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="olaFondo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00FF41" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#00FF41" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="brillo" x="-10%" y="-120%" width="120%" height="340%">
+      <feGaussianBlur stdDeviation="3.5" result="desenfoque"/>
+      <feMerge>
+        <feMergeNode in="desenfoque"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="170" fill="url(#fondo)"/>
+  <rect width="1200" height="1" fill="url(#filo)"/>
+
+  <text x="600" y="70" text-anchor="middle" font-family="'Share Tech Mono','Fira Code','Courier New',monospace" font-size="25" letter-spacing="1.4" fill="#D8FFE6">Cada commit es un paso adelante.</text>
+  <text x="600" y="101" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" letter-spacing="4.6" fill="#7E9C8A">LUIS ÁNGEL MUÑOZ · EL BAGRE, ANTIOQUIA · COLOMBIA</text>
+
+  <g>
+    <path d="M0 132 C 100 120 150 150 250 140 C 350 130 400 114 500 128 C 600 142 650 156 750 142 C 850 128 900 114 1000 128 C 1100 142 1150 150 1200 136 L 1200 170 L 0 170 Z" fill="url(#olaFondo)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0 132 C 100 120 150 150 250 140 C 350 130 400 114 500 128 C 600 142 650 156 750 142 C 850 128 900 114 1000 128 C 1100 142 1150 150 1200 136" fill="none" stroke="url(#ola)" stroke-width="2.2" filter="url(#brillo)" stroke-linecap="round"/>
+    <path d="M0 146 C 120 138 170 158 290 150 C 410 142 460 130 580 142 C 700 154 750 162 870 152 C 990 142 1040 132 1200 148" fill="none" stroke="#00FF41" stroke-opacity="0.28" stroke-width="1.4"/>
+    <circle cx="600" cy="149" r="3" fill="#C8FFDA">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

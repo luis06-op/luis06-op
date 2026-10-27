@@ -410,10 +410,8 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,00FF41,0d1117&height=120&section=footer&animation=fadeIn" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt="Cierre del perfil: cada commit es un paso adelante"/>
 
 <div align="center">
-  <sub>💡 <i>“Cada commit es un paso adelante.”</i></sub>
-  <br/><br/>
-  <sub>🎬 Banners 3D <b>renderizados en la GPU</b> (AMD Radeon RX 9060 XT · 16 GB) con Three.js + WebGL, y optimizados con FFmpeg.</sub>
+  <sub>🎬 Banners 3D <b>renderizados en la GPU</b> (AMD Radeon RX 9060 XT · 16 GB) con Three.js + WebGL, y optimizados con FFmpeg. El banner de Berserk es SVG animado.</sub>
 </div>
