@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero-3d-v2.gif" width="100%" alt="Banner 3D animado de Luis Ángel Muñoz Márquez"/>
+  <img src="assets/hero-gpu.svg" width="100%" alt="Banner minimalista de Luis Ángel Muñoz Márquez con una AMD Radeon RX 9060 XT"/>
 </div>
 
 <div align="center">
