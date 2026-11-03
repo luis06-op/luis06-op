@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero-3d-rdr2.gif" width="100%" alt="Banner 3D estilo Red Dead Redemption 2 en la AMD Radeon RX 9060 XT"/>
+  <img src="assets/hero-3d-v3.gif" width="100%" alt="Banner 3D con núcleo de GPU roja en la AMD Radeon RX 9060 XT"/>
 </div>
 
 <div align="center">
