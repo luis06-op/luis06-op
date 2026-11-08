@@ -386,7 +386,7 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 <br/>
 
-<sub>La serpiente se genera automáticamente a partir de mi gráfico de contribuciones (se actualiza cada 12 h). Las estadísticas anteriores (streak-stats / github-readme-stats) se quitaron porque dejaron de cargar de forma estable.</sub>
+
 
 </div>
 
