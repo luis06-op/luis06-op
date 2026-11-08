@@ -374,19 +374,19 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📊 Estadísticas
+## 🐍 Serpiente de contribuciones
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=luis06-op&theme=dark&ring=00FF41&fire=38BDF8&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&border=00FF41&background=0d1117" alt="Racha de GitHub"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=luis06-op&show_icons=true&hide_border=false&border_color=00FF41&bg_color=0d1117&title_color=00FF41&icon_color=38BDF8&text_color=c9d1d9&locale=es" alt="Estadísticas de GitHub"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luis06-op/luis06-op/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luis06-op/luis06-op/output/github-contribution-grid-snake.svg">
+  <img alt="Serpiente de contribuciones" src="https://raw.githubusercontent.com/luis06-op/luis06-op/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis06-op&layout=compact&hide_border=false&border_color=00FF41&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9&locale=es" alt="Lenguajes más usados"/>
+<sub>La serpiente se genera automáticamente a partir de mi gráfico de contribuciones (se actualiza cada 12 h). Las estadísticas anteriores (streak-stats / github-readme-stats) se quitaron porque dejaron de cargar de forma estable.</sub>
 
 </div>
 
