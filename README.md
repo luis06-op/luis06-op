@@ -16,6 +16,8 @@
 [![Repositorios](https://img.shields.io/badge/Repositorios-11-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op?tab=repositories)
 [![Renderizado en GPU](https://img.shields.io/badge/Banners_3D-GPU_·_RX_9060_XT-0d1117?style=for-the-badge&logo=amd&logoColor=38BDF8)](https://www.amd.com/)
 
+[![insignia superior de committers](https://user-badge.committers.top/colombia/luis06-op.svg)](https://user-badge.committers.top/colombia/luis06-op)
+
 </div>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
