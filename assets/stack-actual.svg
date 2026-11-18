@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="510" viewBox="0 0 1200 510" role="img" aria-labelledby="title desc">
+  <title id="title">Mi stack tecnológico — luis06-op</title>
+  <desc id="desc">Desarrollo web con PHP, Laravel y JavaScript; visión con Python, OpenCV y NumPy; gráficos con Three.js y WebGL; pruebas con pytest y PHPUnit; herramientas de desarrollo y publicación.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#0d111b"/><stop offset="1" stop-color="#172738"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#91a4b9" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1200" height="510" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="510" rx="22" fill="url(#dots)"/>
+  <g font-family="Segoe UI, Ubuntu, Arial, sans-serif">
+    <text x="38" y="41" fill="#65e5c0" font-size="12" letter-spacing="3">LUIS06-OP / HERRAMIENTAS PARA CONSTRUIR</text>
+    <text x="36" y="96" fill="#eef5fa" font-size="42" font-weight="700">Web. Visión. Gráficos. Código que evoluciona.</text>
+    <text x="38" y="127" fill="#a3b4c9" font-size="17">Mi aprendizaje, aplicado en proyectos que puedes explorar.</text>
+    <g fill="#111b27" stroke="#2c3e52">
+      <rect x="30" y="156" width="368" height="146" rx="14"/>
+      <rect x="416" y="156" width="368" height="146" rx="14"/>
+      <rect x="802" y="156" width="368" height="146" rx="14"/>
+      <rect x="30" y="320" width="368" height="146" rx="14"/>
+      <rect x="416" y="320" width="368" height="146" rx="14"/>
+      <rect x="802" y="320" width="368" height="146" rx="14"/>
+    </g>
+    <g font-size="12" letter-spacing="2" font-weight="600">
+      <text x="50" y="185" fill="#65e5c0">01 / LENGUAJES Y DATOS</text>
+      <text x="436" y="185" fill="#b5a2ff">02 / DESARROLLO WEB</text>
+      <text x="822" y="185" fill="#79c8ff">03 / VISIÓN Y CIENCIA</text>
+      <text x="50" y="349" fill="#f2c879">04 / GRÁFICOS Y DISEÑO</text>
+      <text x="436" y="349" fill="#f28b93">05 / PRUEBAS Y CALIDAD</text>
+      <text x="822" y="349" fill="#65e5c0">06 / ENTORNO Y ENTREGA</text>
+    </g>
+    <g fill="#eef5fa" font-size="23" font-weight="650">
+      <text x="50" y="224">PHP · Python · JavaScript</text>
+      <text x="436" y="224">Laravel · Blade · Vite</text>
+      <text x="822" y="224">OpenCV · NumPy</text>
+      <text x="50" y="388">Three.js · WebGL · SVG</text>
+      <text x="436" y="388">pytest · Ruff · mypy</text>
+      <text x="822" y="388">Git · Linux · GitHub</text>
+    </g>
+    <g fill="#a3b4c9" font-size="15">
+      <text x="50" y="257">HTML · CSS · SQL · MySQL</text>
+      <text x="436" y="257">Tailwind · Bootstrap · Eloquent</text>
+      <text x="822" y="257">Kociemba · Jupyter · Colab</text>
+      <text x="50" y="421">Escenas 3D · banners · FFmpeg</text>
+      <text x="436" y="421">PHPUnit · Pint · benchmarks</text>
+      <text x="822" y="421">Composer · npm · pip · Actions</text>
+    </g>
+    <text x="38" y="491" fill="#8295ab" font-size="12" letter-spacing="1">APRENDER → CONSTRUIR → COMPROBAR → COMPARTIR</text>
+    <text x="1162" y="491" text-anchor="end" fill="#8295ab" font-size="12">github.com/luis06-op</text>
+  </g>
+</svg>
