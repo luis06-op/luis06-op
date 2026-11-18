@@ -5,7 +5,6 @@
 <p align="center">
   <a href="#proyectos">Mis proyectos</a> ·
   <a href="#rubikvision">RubikVisionSolver</a> ·
-  <a href="#stack">Stack tecnológico</a> ·
   <a href="#formacion">Formación</a> ·
   <a href="#contacto">Contacto</a> ·
   <a href="https://github.com/luis06-op?tab=repositories">Todos los repositorios ↗</a>
@@ -13,9 +12,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=820&height=70&lines=Luis+%C3%81ngel+Mu%C3%B1oz+M%C3%A1rquez;Desarrollador+de+Software+en+formaci%C3%B3n;PHP+%C2%B7+Laravel+%C2%B7+JavaScript+%C2%B7+Python)](https://github.com/luis06-op)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=820&height=70&lines=Luis+%C3%81ngel+Mu%C3%B1oz+M%C3%A1rquez;Desarrollador+de+Software+en+formaci%C3%B3n;PHP+%C2%B7+MySQL+%C2%B7+Bootstrap+%C2%B7+Python)](https://github.com/luis06-op)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&height=70&lines=ARIS+2.0+%C2%B7+Gesti%C3%B3n+documental+con+Laravel;RubikVisionSolver+%C2%B7+Visi%C3%B3n+con+OpenCV;ForestID+%C2%B7+Trazabilidad+forestal+con+QR+y+GPS;GPU+Lab+%C2%B7+Three.js+y+WebGL;El+Bagre%2C+Antioquia+%C2%B7+Colombia)](https://github.com/luis06-op)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=17&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&height=70&lines=Construyendo+ForestID+%C2%B7+Registro+forestal+con+QR;Minervox+POS+%C2%B7+en+producci%C3%B3n;Wiki+Berserk+%C2%B7+Bootstrap+5+%2B+Vercel;El+Bagre%2C+Antioquia+%C2%B7+Colombia)](https://github.com/luis06-op)
 
 <br/>
 
@@ -42,16 +41,11 @@
 ### 👤 Luis Ángel Muñoz Márquez
 `Desarrollador de Software en formación`
 
-Conecto **desarrollo web, tecnología ambiental y visión por computador**.
-Aprendo construyendo aplicaciones, documentando decisiones y comprobando el código.
-
 - 📍 **El Bagre, Antioquia** · Colombia
 - 🎓 **Técnico en Programación de Software** — SENA · ficha 3412544
 - 🌱 **Ingeniería Ambiental** — UNAD
-- 💻 **Desarrollo web:** PHP · Laravel · MySQL · JavaScript · Tailwind CSS · Bootstrap
-- 🧩 **Python aplicado:** OpenCV · NumPy · automatización
-- 🧪 **Explorando:** gráficos 3D con Three.js y WebGL · pruebas y análisis estático
-- 🛠️ **Entorno de trabajo:** Linux · Git · GitHub · OpenCode
+- 💻 **Full-stack en formación:** PHP · MySQL · JavaScript · Bootstrap · Python
+- 🧪 **Explorando:** Linux · OpenCode · automatización
 - 🏢 **Proyectos:** ForestID · Minervox · ARIS · RubikVisionSolver · GPU Lab · Berserk
 
 </td>
@@ -59,8 +53,7 @@ Aprendo construyendo aplicaciones, documentando decisiones y comprobando el cód
 
 ### 🎯 En este momento
 
-Construyo software para problemas reales: **trazabilidad forestal, gestión documental
-y comercio**, junto con experimentos de visión y gráficos 3D.
+Construyo software para problemas reales: **del arbolado urbano al mostrador minero**.
 
 - 🌳 Liderando la arquitectura de **ForestID**, una plataforma de trazabilidad forestal con QR y GPS.
 - ⛏️ Desarrollando **Minervox POS**, un punto de venta PWA para insumos mineros.
@@ -69,7 +62,6 @@ y comercio**, junto con experimentos de visión y gráficos 3D.
 - ⚙️ Automatizando tareas con **Python**, **Bash** y **Linux**.
 - 🧩 Explorando visión por computador con **RubikVisionSolver**, OpenCV y Kociemba.
 - 📂 Construyendo **ARIS 2.0**, gestión documental y trazabilidad pedagógica.
-- 🎮 Experimentando con **GPU Lab**, animaciones y modelos 3D en el navegador.
 
 </td>
 </tr>
@@ -238,92 +230,136 @@ para abrir el repositorio de cada proyecto.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<a id="stack"></a>
-
 ## 🛠️ Stack tecnológico
 
-<img src="assets/stack-actual.svg" width="100%" alt="Mi stack: desarrollo web con PHP y Laravel, visión con Python y OpenCV, gráficos con Three.js y WebGL, pruebas y herramientas de desarrollo." />
+<img src="assets/stack-3d-v2.gif" width="100%" alt="Cubo 3D con las tecnologías del stack — renderizado en GPU con WebGL"/>
 
-Tecnologías que utilizo y sigo aprendiendo en mis proyectos. Cada área enlaza
-con código donde puedes ver su aplicación.
+<div align="center">
 
-### `01 / Lenguajes y bases de datos`
+### `// Lenguajes`
 
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/luis06-op/ARIS-V2)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/luis06-op/RubikVisionSolver)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111b27)](https://github.com/luis06-op/gpu-lab)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://github.com/luis06-op/berserk-guts-web)
-[![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)](https://github.com/luis06-op/Hoja-de-vida)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/luis06-op/ForestID_V2)
+<table>
+  <tr>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/php/777BB4" width="28" height="28" alt="PHP" title="PHP 8"/><br/>
+      <sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" height="28" alt="JavaScript" title="JavaScript ES6+"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="28" height="28" alt="Python" title="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="28" height="28" alt="HTML5" title="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/css/663399" width="28" height="28" alt="CSS" title="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
-**SQL y modelado relacional:** consultas preparadas con PDO, relaciones,
-migraciones y acceso a datos con Eloquent.
+### `// Datos & web`
 
-### `02 / Backend e interfaces web`
+<table>
+  <tr>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/ffffff"/>
+        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="28" height="28" alt="MySQL" title="MySQL 8"/>
+      </picture><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="28" height="28" alt="Tailwind CSS" title="Tailwind CSS"/><br/>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="28" height="28" alt="Bootstrap" title="Bootstrap 5.3.3"/><br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/leaflet/199900" width="28" height="28" alt="Leaflet" title="Leaflet · OpenStreetMap"/><br/>
+      <sub><b>Leaflet</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="28" height="28" alt="Chart.js" title="Chart.js"/><br/>
+      <sub><b>Chart.js</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/pwa/5A0FC8" width="28" height="28" alt="PWA" title="PWA"/><br/>
+      <sub><b>PWA</b></sub>
+    </td>
+  </tr>
+</table>
 
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/luis06-op/ARIS-V2)
-[![Blade](https://img.shields.io/badge/Blade-7c3aed?style=flat-square)](https://github.com/luis06-op/ARIS-V2)
-[![Eloquent](https://img.shields.io/badge/Eloquent-111b27?style=flat-square)](https://github.com/luis06-op/ARIS-V2)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://github.com/luis06-op/ARIS-V2)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/luis06-op/berserk-guts-web)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/luis06-op/ARIS-V2)
-[![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)](https://github.com/luis06-op/ForestID_V2)
-[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)](https://github.com/luis06-op/ForestID_V2)
-[![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)](https://github.com/luis06-op/minervox-pos)
+### `// Herramientas`
 
-### `03 / Visión por computador y Python científico`
+<table>
+  <tr>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="28" height="28" alt="Git" title="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"/>
+        <img src="https://cdn.simpleicons.org/github/181717" width="28" height="28" alt="GitHub" title="GitHub"/>
+      </picture><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="28" height="28" alt="Bash" title="Bash"/><br/>
+      <sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/FCC624"/>
+        <img src="https://cdn.simpleicons.org/linux/A16207" width="28" height="28" alt="Linux" title="Linux"/>
+      </picture><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/xampp/FB7A24" width="28" height="28" alt="XAMPP" title="XAMPP · Apache + MySQL"/><br/>
+      <sub><b>XAMPP</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="28" height="28" alt="VS Code" title="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opencode/ffffff"/>
+        <img src="https://cdn.simpleicons.org/opencode/000000" width="28" height="28" alt="OpenCode" title="OpenCode"/>
+      </picture><br/>
+      <sub><b>OpenCode</b></sub>
+    </td>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/vercel/ffffff"/>
+        <img src="https://cdn.simpleicons.org/vercel/000000" width="28" height="28" alt="Vercel" title="Vercel"/>
+      </picture><br/>
+      <sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubpages/ffffff"/>
+        <img src="https://cdn.simpleicons.org/githubpages/181717" width="28" height="28" alt="GitHub Pages" title="GitHub Pages"/>
+      </picture><br/>
+      <sub><b>Pages</b></sub>
+    </td>
+  </tr>
+</table>
 
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/luis06-op/RubikVisionSolver)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/luis06-op/RubikVisionSolver)
-[![Kociemba](https://img.shields.io/badge/Kociemba-65e5c0?style=flat-square&labelColor=111b27)](https://github.com/luis06-op/RubikVisionSolver)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://github.com/luis06-op/ecuaciones-diferenciales)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=111b27)](https://github.com/luis06-op/ecuaciones-diferenciales)
+</div>
 
-Captura de vídeo, clasificación de color en HSV, operaciones con matrices,
-resolución algorítmica y notebooks de ecuaciones diferenciales.
-
-### `04 / Gráficos y contenido visual`
-
-[![Three.js](https://img.shields.io/badge/Three.js-111b27?style=flat-square&logo=threedotjs&logoColor=white)](https://github.com/luis06-op/gpu-lab)
-[![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)](https://github.com/luis06-op/gpu-lab)
-[![SVG](https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=111b27)](https://github.com/luis06-op/luis06-op/tree/main/assets)
-[![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)](https://github.com/luis06-op/luis06-op/tree/main/assets)
-
-Escenas 3D en el navegador, banners vectoriales y optimización de animaciones.
-
-### `05 / Pruebas y calidad de código`
-
-[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://github.com/luis06-op/RubikVisionSolver/tree/main/tests)
-[![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=111b27)](https://github.com/luis06-op/RubikVisionSolver/blob/main/pyproject.toml)
-[![mypy](https://img.shields.io/badge/mypy-1677b0?style=flat-square)](https://github.com/luis06-op/RubikVisionSolver/blob/main/pyproject.toml)
-[![PHPUnit](https://img.shields.io/badge/PHPUnit-3b78a0?style=flat-square)](https://github.com/luis06-op/ARIS-V2)
-[![Laravel Pint](https://img.shields.io/badge/Laravel_Pint-FF2D20?style=flat-square)](https://github.com/luis06-op/ARIS-V2)
-
-Pruebas automatizadas, tipado estático, formato consistente y mediciones
-reproducibles de rendimiento.
-
-### `06 / Entorno, herramientas y publicación`
-
-- **Desarrollo:** Git · GitHub · Linux · Bash · VS Code · OpenCode.
-- **Dependencias y ejecución:** Composer · npm · pip · venv · XAMPP.
-- **Automatización y publicación:** GitHub Actions · Vercel · GitHub Pages.
-
-### Del stack al proyecto
-
-| Proyecto | Tecnologías aplicadas | Qué construyo con ellas |
-|---|---|---|
-| [**ARIS 2.0**](https://github.com/luis06-op/ARIS-V2) | PHP · Laravel · Blade · Eloquent · Tailwind CSS · Vite | Gestión documental y trazabilidad pedagógica |
-| [**RubikVisionSolver**](https://github.com/luis06-op/RubikVisionSolver) | Python · OpenCV · NumPy · Kociemba · pytest · Ruff · mypy | Escaneo de cubos y resolución guiada |
-| [**ForestID V2**](https://github.com/luis06-op/ForestID_V2) | PHP · MySQL · PDO · JavaScript · Tailwind CSS · Leaflet · Chart.js | Inventario forestal, mapas y trazabilidad con QR |
-| [**Minervox POS**](https://github.com/luis06-op/minervox-pos) | PHP · MySQL · JavaScript · PWA | Punto de venta y control de cartera |
-| [**GPU Lab**](https://github.com/luis06-op/gpu-lab) | JavaScript · Three.js · WebGL | Animaciones, modelos 3D y experimentación gráfica |
-| [**Berserk**](https://github.com/luis06-op/berserk-guts-web) | HTML · CSS · Bootstrap · JavaScript | Wiki y catálogo interactivo |
-
-<details>
-<summary><strong>🎬 Cómo están hechos los banners 3D del perfil</strong></summary>
-
-<br />
-<img src="assets/stack-3d-v2.gif" width="100%" alt="Animación del cubo de tecnologías, parte de los banners 3D del perfil" />
+### `// Renderizado en GPU`
 
 <div align="center">
 
@@ -339,8 +375,6 @@ reproducibles de rendimiento.
 | **Escenas** | tarjeta de identidad · árbol holográfico · cristal minero · cubo de stack · globo GPS |
 | **Post-proceso** | FFmpeg — paleta de 192 colores · 12,5 fps |
 | **Rendimiento** | ~0,27 ms por fotograma en GPU |
-
-</details>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
