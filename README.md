@@ -295,6 +295,32 @@ para abrir el repositorio de cada proyecto.
       <sub><b>PWA</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="28" height="28" alt="Laravel" title="Laravel"/><br/>
+      <sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/vite/646CFF" width="28" height="28" alt="Vite" title="Vite"/><br/>
+      <sub><b>Vite</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="28" height="28" alt="OpenCV" title="OpenCV"/><br/>
+      <sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/numpy/4D77CF" width="28" height="28" alt="NumPy" title="NumPy"/><br/>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/threedotjs/64748B" width="28" height="28" alt="Three.js" title="Three.js"/><br/>
+      <sub><b>Three.js</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/webgl/990000" width="28" height="28" alt="WebGL" title="WebGL"/><br/>
+      <sub><b>WebGL</b></sub>
+    </td>
+  </tr>
 </table>
 
 ### `// Herramientas`
@@ -322,6 +348,14 @@ para abrir el repositorio de cada proyecto.
         <img src="https://cdn.simpleicons.org/linux/A16207" width="28" height="28" alt="Linux" title="Linux"/>
       </picture><br/>
       <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/composer/885630" width="28" height="28" alt="Composer" title="Composer"/><br/>
+      <sub><b>Composer</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/npm/CB3837" width="28" height="28" alt="npm" title="npm"/><br/>
+      <sub><b>npm</b></sub>
     </td>
   </tr>
   <tr>
@@ -353,6 +387,28 @@ para abrir el repositorio de cada proyecto.
         <img src="https://cdn.simpleicons.org/githubpages/181717" width="28" height="28" alt="GitHub Pages" title="GitHub Pages"/>
       </picture><br/>
       <sub><b>Pages</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="28" height="28" alt="GitHub Actions" title="GitHub Actions"/><br/>
+      <sub><b>Actions</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="28" height="28" alt="pytest" title="pytest"/><br/>
+      <sub><b>pytest</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/ruff/5B8C00" width="28" height="28" alt="Ruff" title="Ruff"/><br/>
+      <sub><b>Ruff</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/jupyter/F37626" width="28" height="28" alt="Jupyter" title="Jupyter"/><br/>
+      <sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="72">
+      <img src="https://cdn.simpleicons.org/ffmpeg/007808" width="28" height="28" alt="FFmpeg" title="FFmpeg"/><br/>
+      <sub><b>FFmpeg</b></sub>
     </td>
   </tr>
 </table>
