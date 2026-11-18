@@ -2,6 +2,14 @@
   <img src="assets/hero-3d-v3.gif" width="100%" alt="Banner 3D con núcleo de GPU roja en la AMD Radeon RX 9060 XT"/>
 </div>
 
+<p align="center">
+  <a href="#proyectos">Mis proyectos</a> ·
+  <a href="#rubikvision">RubikVisionSolver</a> ·
+  <a href="#formacion">Formación</a> ·
+  <a href="#contacto">Contacto</a> ·
+  <a href="https://github.com/luis06-op?tab=repositories">Todos los repositorios ↗</a>
+</p>
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=820&height=70&lines=Luis+%C3%81ngel+Mu%C3%B1oz+M%C3%A1rquez;Desarrollador+de+Software+en+formaci%C3%B3n;PHP+%C2%B7+MySQL+%C2%B7+Bootstrap+%C2%B7+Python)](https://github.com/luis06-op)
@@ -13,7 +21,7 @@
 [![Seguidores](https://img.shields.io/github/followers/luis06-op?label=Seguidores&style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41)](https://github.com/luis06-op)
 [![Visitas](https://komarev.com/ghpvc/?username=luis06-op&color=38BDF8&style=for-the-badge&label=Visitas)](https://github.com/luis06-op)
 [![Estrellas](https://img.shields.io/github/stars/luis06-op?style=for-the-badge&color=00FF41&labelColor=0d1117&logo=github&logoColor=00FF41&label=Estrellas)](https://github.com/luis06-op)
-[![Repositorios](https://img.shields.io/badge/Repositorios-11-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op?tab=repositories)
+[![Repositorios](https://img.shields.io/badge/Repositorios-Explorar-0d1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/luis06-op?tab=repositories)
 [![Renderizado en GPU](https://img.shields.io/badge/Banners_3D-GPU_·_RX_9060_XT-0d1117?style=for-the-badge&logo=amd&logoColor=38BDF8)](https://www.amd.com/)
 
 [![insignia superior de committers](https://user-badge.committers.top/colombia/luis06-op.svg)](https://user-badge.committers.top/colombia/luis06-op)
@@ -38,7 +46,7 @@
 - 🌱 **Ingeniería Ambiental** — UNAD
 - 💻 **Full-stack en formación:** PHP · MySQL · JavaScript · Bootstrap · Python
 - 🧪 **Explorando:** Linux · OpenCode · automatización
-- 🏢 **Proyectos:** ForestID (Emincut S.A.S.) · Minervox · Archivo del Espadachín Negro
+- 🏢 **Proyectos:** ForestID · Minervox · ARIS · RubikVisionSolver · GPU Lab · Berserk
 
 </td>
 <td width="48%" valign="top">
@@ -52,6 +60,8 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 - ⚔️ Publiqué **Archivo del Espadachín Negro**, una wiki de Berserk con Bootstrap 5 desplegada en Vercel.
 - 📚 Formándome en programación, bases de datos y tecnología ambiental.
 - ⚙️ Automatizando tareas con **Python**, **Bash** y **Linux**.
+- 🧩 Explorando visión por computador con **RubikVisionSolver**, OpenCV y Kociemba.
+- 📂 Construyendo **ARIS 2.0**, gestión documental y trazabilidad pedagógica.
 
 </td>
 </tr>
@@ -59,7 +69,59 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+<a id="proyectos"></a>
+
 ## 🚀 Proyectos destacados
+
+**Software para problemas reales y espacio para experimentar.** Elige una tarjeta
+para abrir el repositorio de cada proyecto.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/luis06-op/RubikVisionSolver"><img src="assets/projects/rubikvision.svg" width="560" alt="RubikVisionSolver — escaneo de cubos con webcam y resolución guiada. Abrir repositorio." /></a><br /><a href="https://github.com/luis06-op/RubikVisionSolver">Código ↗</a> · <a href="https://github.com/luis06-op/RubikVisionSolver#instalación">Instalación</a></td>
+    <td width="50%"><a href="https://github.com/luis06-op/ForestID_V2"><img src="assets/projects/forestid.svg" width="560" alt="ForestID V2 — inventario forestal y trazabilidad. Abrir repositorio." /></a><br /><a href="https://github.com/luis06-op/ForestID_V2">Código ↗</a> · <a href="https://forestid-feria.vercel.app">Presentación web</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/luis06-op/ARIS-V2"><img src="assets/projects/aris.svg" width="560" alt="ARIS 2.0 — gestión documental y repositorio pedagógico. Abrir repositorio." /></a><br /><a href="https://github.com/luis06-op/ARIS-V2">Código y documentación ↗</a></td>
+    <td><a href="https://github.com/luis06-op/minervox-pos"><img src="assets/projects/minervox.svg" width="560" alt="Minervox POS — punto de venta, facturación y cartera. Abrir repositorio." /></a><br /><a href="https://github.com/luis06-op/minervox-pos">Código ↗</a> · <a href="https://minervox-v2.vercel.app">Presentación web</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/luis06-op/gpu-lab"><img src="assets/projects/gpulab.svg" width="560" alt="GPU Lab — animaciones, modelos 3D y cómputo en GPU. Abrir repositorio." /></a><br /><a href="https://github.com/luis06-op/gpu-lab">Explorar el laboratorio ↗</a></td>
+    <td><a href="https://github.com/luis06-op/berserk-guts-web"><img src="assets/projects/berserk.svg" width="560" alt="Archivo del Espadachín Negro — wiki temática de Berserk. Abrir repositorio." /></a><br /><a href="https://github.com/luis06-op/berserk-guts-web">Código ↗</a> · <a href="https://berserk-guts-web.vercel.app">Abrir la wiki</a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/luis06-op?tab=repositories"><strong>Ver todos mis repositorios →</strong></a></p>
+
+<a id="rubikvision"></a>
+
+### 🧩 RubikVisionSolver · Mira. Escanea. Resuelve.
+
+<a href="https://github.com/luis06-op/RubikVisionSolver">
+  <img src="assets/rubikvision-banner.svg" width="100%" alt="RubikVisionSolver — de tu webcam al siguiente movimiento. Abrir proyecto." />
+</a>
+
+> Aplicación de escritorio que **escanea un cubo de Rubik con la webcam**, valida
+> que sea físicamente resoluble y te guía movimiento a movimiento en español.
+
+| | |
+|---|---|
+| **Stack** | Python 3.10+ · OpenCV · NumPy · Kociemba |
+| **Flujo** | Captura de seis caras → validación → solución → guía visual |
+| **Interfaz** | Cámara en vivo, indicadores de lectura, flechas de giro y próximos movimientos |
+| **Ejecución** | Local, con webcam y entorno gráfico |
+
+- 🎨 Clasificación HSV con diagnóstico de iluminación y vista de calibración.
+- 🧠 Validación de colores, piezas, orientación y paridad antes de resolver.
+- ⚡ Procesamiento de la zona de interés y reutilización de recursos de dibujo.
+- 🧪 Pruebas automatizadas, tipado estricto y benchmark reproducible.
+
+<p align="center">
+  <a href="https://github.com/luis06-op/RubikVisionSolver"><strong>Ver proyecto ↗</strong></a> ·
+  <a href="https://github.com/luis06-op/RubikVisionSolver#instalación">Instalar y probar</a> ·
+  <a href="https://github.com/luis06-op/RubikVisionSolver/blob/main/docs/user_guide.md">Guía de uso</a> ·
+  <a href="https://github.com/luis06-op/RubikVisionSolver/blob/main/docs/performance.md">Rendimiento</a>
+</p>
 
 ### 🌳 ForestID V2 · ForestSRD
 
@@ -316,6 +378,8 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+<a id="formacion"></a>
+
 ## 🎓 Formación y certificaciones
 
 ### Formación académica
@@ -392,6 +456,8 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+<a id="contacto"></a>
+
 ## 📫 Conecta conmigo
 
 <img src="assets/globe-3d.gif" width="100%" alt="Globo 3D con el marcador GPS de El Bagre, Antioquia — renderizado en GPU con WebGL"/>
@@ -415,5 +481,5 @@ Construyo software para problemas reales: **del arbolado urbano al mostrador min
 <img src="assets/footer.svg" width="100%" alt="Cierre del perfil: cada commit es un paso adelante"/>
 
 <div align="center">
-  <sub>🎬 Banners 3D <b>renderizados en la GPU</b> (AMD Radeon RX 9060 XT · 16 GB) con Three.js + WebGL, y optimizados con FFmpeg. El banner de Berserk es SVG animado.</sub>
+  <sub>🎬 Banners animados 3D renderizados en GPU con Three.js + WebGL y optimizados con FFmpeg. Tarjetas de proyectos y banner de RubikVisionSolver en SVG; el banner de Berserk es SVG animado.</sub>
 </div>
